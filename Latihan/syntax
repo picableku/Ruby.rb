@@ -1,4 +1,4 @@
 ##tipe data
 #float
 riil disebut float dalam ruby
---untuk membatasi angka di belakang koma saat penjumlahan,gunakan (float(number),round(number))
+--untuk membatasi angka di belakang koma saat penjumlahan,gunakan (.float(number),.round(number))
