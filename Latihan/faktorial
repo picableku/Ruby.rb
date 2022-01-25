@@ -1,0 +1,7 @@
+#latihan faktorial ruby
+system("clear")
+print("masukan angka : "); a = gets.to_i
+c = 1
+for b in (1..a) do c *= b end
+puts("faktorial #{b} = #{c}")
+
