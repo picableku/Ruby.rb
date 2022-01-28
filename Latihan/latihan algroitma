@@ -1,0 +1,13 @@
+system("clear")
+print "masukan angka : "; a = gets.to_i
+@d = a
+for b in 1..a #kolom
+  a = b * 2
+  @d.downto(b) do #baris
+    print "#{a} "
+    a += 1
+  end
+  puts " "
+end
+
+
